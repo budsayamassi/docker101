@@ -4,3 +4,16 @@ docker run busybox ping google.com
 docker run nginx
 docker run -p 80:80 ngin
 docker run -p 9000:80 ngin
+
+docker pull wordpress
+docker pull mysql:5.7
+docker pull phpmyadmin/phpmyadmin
+
+**Create network
+
+docker network create wordpress
+docker network ls
+
+dev888 pass =  EPqIF(AHQcFezhoXIR
+dev889 pass = X1582#6uB2vO&qHgpX
+dev890 pass = W6Yu7DQf9Qp)vZuqF!
